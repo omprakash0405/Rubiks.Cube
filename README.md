@@ -51,7 +51,7 @@ Perfect for speedcubers who want quick practice tracking.
 | CSS | Styling & UI |
 | JavaScript | Timer logic & stats calculation |
 
----
+--- 
 
 ## 📂 Project Structure  
 
